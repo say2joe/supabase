@@ -50,7 +50,7 @@
     "react-virtualized-auto-sizer": "^1.0.6",
     "react-window": "^1.8.6",
     "react-window-infinite-loader": "^1.0.7",
-    "recharts": "^2.1.6",
+    "recharts": "^2.1.14",
     "sass": "^1.43.4",
     "semver": "^6.3.0",
     "sqlstring": "^2.3.2",
